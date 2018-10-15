@@ -6,3 +6,7 @@ colorlog
 cffi --only-binary all; sys_platform == 'win32'
 websockets
 requests
+aiohttp
+websockets
+chardet
+asyncio
